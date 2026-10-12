@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://swaadhigam.com">
-    <img src="https://swaadhigam.com/full-logo.png" alt="Swaadhigam: UPSC self-learning platform" height="64">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/full-logo-dark.png">
+      <img src="https://swaadhigam.com/full-logo.png" alt="Swaadhigam: UPSC self-learning platform" height="64">
+    </picture>
   </a>
 </p>
 
